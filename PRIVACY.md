@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-Für die Browser-Erweiterung Autodarts plugin by RA · Beta2.7.22. Stand: 15. November 2026.
+Für die Browser-Erweiterung Autodarts plugin by RA · Beta2.7.23. Stand: 15. November 2026.
 
 ## 1. Verantwortlicher
 
